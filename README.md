@@ -96,7 +96,7 @@ Start with the latest version of NPM to avoid any errors:
 1. Get Leaflet library [Leaflet](https://leafletjs.com/)
 2. Clone the repo
    ```sh
-   git clone https://github.com/PawanJS_/mapty.git
+   git clone https://github.com/vinayak0127/Mapty.git
    ```
 3. Install NPM packages
    ```sh
